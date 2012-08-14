@@ -1,1 +1,1 @@
-root /var/www/html/staging;
+root /var/www/vhosts/staging.lebook.com;

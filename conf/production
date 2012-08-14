@@ -1,1 +1,1 @@
-root /var/www/html/production;
+root /var/www/vhosts/www.lebook.com;

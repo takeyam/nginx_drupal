@@ -25,7 +25,7 @@
   }
 
   # only a few php files are allowed, this increases the overall server security
-  location ~* ^/(index|boost_stats|cron|xmlrpc).php$ {
+  location ~* ^/(index|boost_stats|cron|xmlrpc|ajax).php$ {
 #    include fastcgi;
     include web-proxy;
   }

@@ -51,7 +51,7 @@
     expires           30d;
 
 ## TESTING
-    include web-proxy;
+#    include web-proxy;
   }
   
   # This rewrites pages to be sent to PHP processing
